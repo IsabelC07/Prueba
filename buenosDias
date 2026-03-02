@@ -1,0 +1,4 @@
+class buenosDias{
+ System.outprint(buenos dias);
+
+}
